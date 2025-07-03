@@ -32,10 +32,9 @@
 
 ### 📺 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/ashishmaurya09/)
-[![Hackerrank]((https://www.hackerrank.com/profile/ashishishere786))
-[![leetcode]((https://leetcode.com/u/ashishmaurya_01/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ashishmaurya09/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ashishishere786)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ashishmaurya_01/)
 
 
 ---
