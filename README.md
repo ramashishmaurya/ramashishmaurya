@@ -21,7 +21,6 @@
 - 🌐 Web: Streamlit, Git, Render
 
 ---
-
 ### 📦 Projects
 
 | Project Name | Description | Link |
@@ -34,7 +33,10 @@
 ### 📺 Connect with Me
 
 [![LinkedIn](https://www.linkedin.com/in/ashishmaurya09/)
-[![GitHub]((https://github.com/ramashishmaurya)
+[![Hackerrank]((https://www.hackerrank.com/profile/ashishishere786))
+[![leetcode]((https://leetcode.com/u/ashishmaurya_01/))
+
+
 
 ---
 
