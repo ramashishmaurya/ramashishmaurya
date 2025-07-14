@@ -3,9 +3,9 @@
 
 ---
 
-🔭 I’m currently working on **Customer Churn Prediction System**
+🔭 I’m a passionate Data Analyst & aspiring Data Scientist with a strong foundation in statistics, Python, and SQL.
 
-🌱 I’m learning **Advanced SQL, Streamlit deployment, and ML pipelines**
+🌱  I enjoy solving real-world problems using Machine Learning, Deep Learning, and storytelling through data visualization.
 
 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/ramashishmaurya)
 
@@ -17,8 +17,8 @@
 
 - 💻 Languages: Python, SQL, DAX  
 - 📈 Tools: Power BI, Excel  
-- 🔍 ML: scikit-learn, pandas, seaborn  
-- 🌐 Web: Streamlit, Git, Render
+- 🔍 ML: scikit-learn, pandas, seaborn  , Tensorflow 
+- 🌐 Web: Streamlit, Git, Render , Flask 
 
 ---
 ### 📦 Projects
@@ -26,7 +26,8 @@
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | 💡 Customer Churn | ML pipeline, Streamlit app, Power BI dashboard | [Repo](https://github.com/ramashishmaurya/Customer-Churn-Analysis-Prediction-System) |
-| 📈 Sales Insights | Power BI dashboard for regional sales | [Repo](#) |
+| 📈 Sales Insights | Power BI dashboard for regional sales | [Repo](https://github.com/ramashishmaurya/Retail-Sales_Analysis) |
+|Project-Customer-Segmentation-for-Personalized-Banking-Services| A complete end-to-end project simulating how banks like Goldman Sachs segment customers using spending patterns, income, and demographics. Built with Python, MySQL, Machine Learning, and Power BI to deliver personalized banking insights.| [Repo](https://github.com/ramashishmaurya/Project-Customer-Segmentation-for-Personalized-Banking-Services) |
 
 ---
 
