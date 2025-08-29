@@ -7,7 +7,7 @@
 
 🌱  I enjoy solving real-world problems using Machine Learning, Deep Learning, and storytelling through data visualization.
 
-👨‍💻 All of my projects are available at [My Portfolio](https://github.com/ramashishmaurya)
+👨‍💻 All of my projects are available at [My Portfolio](https://ramashishmaurya.github.io/Personal-Portfolio/)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashishmaurya09/)
 
