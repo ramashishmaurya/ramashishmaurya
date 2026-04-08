@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramashish Maurya</h1>
-<h3 align="center">Data Analyst & Aspiring Data Scientist | Python • SQL • Power BI • ML</h3>
-
+<h1 align="center">Hi 👋, I'm Ashish Maurya</h1>
+<h3 align="center">Data Analyst | Transitioning into Data Science & ML</h3>
 <p align="center">
   <a href="https://ramashishmaurya.github.io/Personal-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -58,21 +57,16 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramashishmaurya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramashishmaurya&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashishmaurya&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramashishmaurya&bg_color=0D1117&color=5C6BC0&line=5C6BC0&point=FF6B6B&area=true&hide_border=true&area_color=5C6BC0" width="95%" />
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramashishmaurya&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+
+----
+
+
 
 <p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
