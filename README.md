@@ -1,45 +1,78 @@
-<h1 align="center">Hi 👋, I'm Ramashish</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • ML</h3>
+<h1 align="center">Hi 👋, I'm Ramashish Maurya</h1>
+<h3 align="center">Data Analyst & Aspiring Data Scientist | Python • SQL • Power BI • ML</h3>
+
+<p align="center">
+  <a href="https://ramashishmaurya.github.io/Personal-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashishmaurya09/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/ashishishere786">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ashishmaurya_01/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-🔭 I’m a passionate Data Analyst & aspiring Data Scientist with a strong foundation in statistics, Python, and SQL.
+### 👨‍💻 About Me
 
-🌱  I enjoy solving real-world problems using Machine Learning, Deep Learning, and storytelling through data visualization.
-
-👨‍💻 All of my projects are available at [My Portfolio](https://ramashishmaurya.github.io/Personal-Portfolio/)
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashishmaurya09/)
-
----
-
-### 📊 My Tech Stack
-
-- 💻 Languages: Python, SQL, DAX  
-- 📈 Tools: Power BI, Excel  
-- 🔍 ML: scikit-learn, pandas, seaborn  , Tensorflow 
-- 🌐 Web: Streamlit, Git, Render , Flask 
-
----
-### 📦 Projects
-
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| 💡 Customer Churn | ML pipeline, Streamlit app, Power BI dashboard | [Repo](https://github.com/ramashishmaurya/Customer-Churn-Analysis-Prediction-System) |
-| 📈 Sales Insights | Power BI dashboard for regional sales | [Repo](https://github.com/ramashishmaurya/Retail-Sales_Analysis) |
-|Project-Customer-Segmentation-for-Personalized-Banking-Services| A complete end-to-end project simulating how banks like Goldman Sachs segment customers using spending patterns, income, and demographics. Built with Python, MySQL, Machine Learning, and Power BI to deliver personalized banking insights.| [Repo](https://github.com/ramashishmaurya/Project-Customer-Segmentation-for-Personalized-Banking-Services) |
+- 🔭 Passionate **Data Analyst & Aspiring Data Scientist** with a strong foundation in statistics, Python, and SQL
+- 🌱 I love solving real-world problems using **Machine Learning, Deep Learning**, and storytelling through **data visualization**
+- 🚀 Currently building end-to-end ML + BI projects to showcase on my [Portfolio](https://ramashishmaurya.github.io/Personal-Portfolio/)
+- 💬 Ask me about **Python, SQL, Power BI, scikit-learn, or Streamlit**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/ashishmaurya09/)**
+- ⚡ Fun fact: I turn messy data into clean stories!
 
 ---
 
-### 📺 Connect with Me
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ashishmaurya09/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ashishishere786)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ashishmaurya_01/)
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**BI & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+**Machine Learning & Deep Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Deployment & Tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ramashishmaurya&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramashishmaurya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramashishmaurya&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashishmaurya&theme=tokyonight&hide_border=true" width="55%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramashishmaurya&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
