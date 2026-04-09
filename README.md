@@ -56,19 +56,14 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-
+------------
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramashishmaurya&bg_color=0D1117&color=5C6BC0&line=5C6BC0&point=FF6B6B&area=true&hide_border=true&area_color=5C6BC0" width="95%" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashishmaurya&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-
-----
+--------
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sajjad01-chaus&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ramashishmaurya&style=flat-square&color=blue" alt="Profile views" />
 
 <p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
