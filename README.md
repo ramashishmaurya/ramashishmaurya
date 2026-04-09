@@ -68,6 +68,7 @@
 
 ----
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sajjad01-chaus&style=flat-square&color=blue" alt="Profile views" />
 
 <p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
