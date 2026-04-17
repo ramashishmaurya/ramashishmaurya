@@ -38,6 +38,7 @@
 ### 🗄️ Databases & Data
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 📈 BI & Analytics
 
@@ -56,6 +57,8 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-4CAF50?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ------------
 <div align="center">
