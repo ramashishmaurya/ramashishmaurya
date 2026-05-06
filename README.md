@@ -63,20 +63,12 @@
 ------------
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=ramashishmaurya&theme=tokyonight" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramashishmaurya&layout=compact&theme=tokyonight&langs_count=6&hide=dockerfile,shell" height="180"/>
-
+<img src="https://streak-stats.demolab.com/?user=ramashishmaurya&theme=tokyonight" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramashishmaurya&theme=radical" height="180"/>
 </div>
 
-<br/>
 
-<!-- Manually Docker + Tools add karo -->
-<div align="center">
- <img src="https://skillicons.dev/icons?i=/>
-</div>
-
---------
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ramashishmaurya&style=flat-square&color=blue" alt="Profile views" />
