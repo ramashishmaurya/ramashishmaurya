@@ -62,12 +62,9 @@
 
 ------------
 <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashishmaurya&theme=tokyonight" height="180"/>
 
-<img src="https://streak-stats.demolab.com/?user=ramashishmaurya&theme=tokyonight" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramashishmaurya&theme=radical" height="180"/>
 </div>
-
 
 
 <div align="center">
