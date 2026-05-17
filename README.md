@@ -24,7 +24,6 @@
 - 🚀 Currently building end-to-end ML + BI projects to showcase on my [Portfolio](https://ramashishmaurya.github.io/Personal-Portfolio/)
 - 💬 Ask me about **Python, SQL, Power BI, scikit-learn, or Streamlit**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/ashishmaurya09/)**
-- ⚡ Fun fact: I turn messy data into clean stories!
 
 ---
 
