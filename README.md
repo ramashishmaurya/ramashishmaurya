@@ -32,6 +32,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
+![Django](https://img.shields.io/badge/Django-4.x-green)
 
 
 ### 🗄️ Databases & Data
