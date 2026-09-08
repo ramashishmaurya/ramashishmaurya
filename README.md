@@ -1,73 +1,85 @@
-<h1 align="center">Hi 👋, I'm Ashish Maurya</h1>
-<h3 align="center">Data Analyst | Transitioning into Data Science & ML</h3>
-<p align="center">
-  <a href="https://ramashishmaurya.github.io/Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashishmaurya09/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/ashishishere786">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/ashishmaurya_01/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Passionate **Data Analyst & Aspiring Data Scientist** with a strong foundation in statistics, Python, and SQL
-- 🌱 I love solving real-world problems using **Machine Learning, Deep Learning**, and storytelling through **data visualization**
-- 🚀 Currently building end-to-end ML + BI projects to showcase on my [Portfolio](https://ramashishmaurya.github.io/Personal-Portfolio/)
-- 💬 Ask me about **Python, SQL, Power BI, scikit-learn, or Streamlit**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/ashishmaurya09/)**
-
----
-
-### 🐍 Programming & Backend
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
-![Django](https://img.shields.io/badge/Django-4.x-green)
-
-
-### 🗄️ Databases & Data
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=flat-square&logo=mongodb&logoColor=white)
-
-### 📈 BI & Analytics
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
-
-**Machine Learning & Deep Learning**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-### Deployment & Tools
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-4CAF50?style=flat-square&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-------------
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashishmaurya&theme=tokyonight" height="180"/>
-
+  <!-- Glowing Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashish%20Maurya&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descSize=25&descAlignY=70" width="100%" alt="Header Banner" />
 </div>
 
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramashishmaurya&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://ramashishmaurya.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-282C34?style=for-the-badge&logo=Web&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ashishmaurya09/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/ashishishere786"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ashishmaurya_01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</div>
 
-<p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
+<br>
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td width="65%" style="border: none;">
+      <a href="https://ramashishmaurya.github.io/Personal-Portfolio/">
+        <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning;Python+%26+Data+Science;Building+Predictive+Models;Storytelling+through+Data&font=Fira+Code&size=22&pause=1000&color=00a8cc&width=438" alt="Typing SVG" />
+      </a>
+      <br><br>
+      <p>🔭 Passionate <b>Data Analyst & Aspiring Data Scientist</b> focusing on predictive modeling and analytics.</p>
+      <p>🌱 Solving real-world problems using <b>Machine Learning, Deep Learning (Python)</b>, and advanced <b>data visualization</b>.</p>
+      <p>🚀 Currently building end-to-end ML + BI pipelines to showcase on my <a href="https://ramashishmaurya.github.io/Personal-Portfolio/">Portfolio</a>.</p>
+      <p>💬 Ask me about <b>Python, Scikit-Learn, TensorFlow, SQL, or Power BI</b>.</p>
+    </td>
+    <td width="35%" style="border: none;" align="center">
+      <!-- Dark Theme Coder GIF -->
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Cool Coder GIF"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+**🧠 Core AI & Data Stack**
+
+<div align="center">
+  <p><b>Machine Learning & Python Stack</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit,fastapi,django&theme=dark" />
+  </a>
+  <br><br>
+  <p><b>Data Engineering & DevOps</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker,git&theme=dark" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
+
+<br>
+
+**📊 GitHub Analytics**
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <!-- Removed extra filters to prevent breaking -->
+      <img src="https://github-readme-stats.vercel.app/api?username=ramashishmaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="380" alt="GitHub Stats" />
+    </td>
+    <td align="center" style="border: none;">
+      <!-- Removed language hiding so it accurately pulls your public repo data -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramashishmaurya&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" width="380" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://streak-stats.demolab.com/?user=ramashishmaurya&theme=tokyonight&hide_border=true&background=0D1117" width="450" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramashishmaurya&style=for-the-badge&color=00a8cc&label=PROFILE+VIEWS" alt="Profile views" />
+  <p>⭐ <i>Thanks for stopping by! If you like my AI/ML work, consider starring my repos!</i> ⭐</p>
+</div>
