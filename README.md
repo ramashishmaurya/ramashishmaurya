@@ -40,12 +40,12 @@
 <div align="center">
   <p><b>Machine Learning & Python Stack</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit,fastapi,django&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,django&theme=dark" />
   </a>
   <br><br>
   <p><b>Data Engineering & DevOps</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,githubactions,docker,git&theme=dark" />
   </a>
 </div>
 
@@ -62,12 +62,10 @@
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <!-- Removed extra filters to prevent breaking -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ramashishmaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="380" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ramashishmaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&v=1" width="380" alt="GitHub Stats" />
     </td>
     <td align="center" style="border: none;">
-      <!-- Removed language hiding so it accurately pulls your public repo data -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramashishmaurya&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" width="380" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramashishmaurya&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&v=1" width="380" alt="Top Languages" />
     </td>
   </tr>
   <tr style="border: none;">
