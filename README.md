@@ -45,7 +45,7 @@
   <br><br>
   <p><b>Data Engineering & DevOps</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,githubactions,docker,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,githubactions,docker,git&theme=dark" />
   </a>
 </div>
 
