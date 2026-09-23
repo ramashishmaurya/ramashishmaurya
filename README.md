@@ -1,7 +1,8 @@
 <div align="center">
-  <!-- Glowing Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashish%20Maurya&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descSize=25&descAlignY=70" width="100%" alt="Header Banner" />
+  <!-- Glowing Animated Banner (Fixed API Link) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashish%20Maurya&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=AI%20and%20Machine%20Learning%20Engineer%20%7C%20Building%20Intelligent%20Systems&descSize=25&descAlignY=70" width="100%" alt="Header Banner" />
 </div>
+
 
 <br>
 
@@ -18,13 +19,14 @@
   <tr style="border: none;">
     <td width="65%" style="border: none;">
       <a href="https://ramashishmaurya.github.io/Personal-Portfolio/">
-        <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning;Python+%26+Data+Science;Building+Predictive+Models;Storytelling+through+Data&font=Fira+Code&size=22&pause=1000&color=00a8cc&width=438" alt="Typing SVG" />
+        <!-- Updated Typing SVG for AI/ML -->
+        <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning;Building+GenAI+%26+LLM+Agents;Deep+Learning+%26+Neural+Networks;Deploying+MLOps+Pipelines&font=Fira+Code&size=22&pause=1000&color=00a8cc&width=480" alt="Typing SVG" />
       </a>
       <br><br>
-      <p>🔭 Passionate <b>Data Analyst & Aspiring Data Scientist</b> focusing on predictive modeling and analytics.</p>
-      <p>🌱 Solving real-world problems using <b>Machine Learning, Deep Learning (Python)</b>, and advanced <b>data visualization</b>.</p>
-      <p>🚀 Currently building end-to-end ML + BI pipelines to showcase on my <a href="https://ramashishmaurya.github.io/Personal-Portfolio/">Portfolio</a>.</p>
-      <p>💬 Ask me about <b>Python, Scikit-Learn, TensorFlow, SQL, or Power BI</b>.</p>
+      <p>🔭 Passionate <b>AI/ML Engineer</b> focusing on building scalable machine learning models and intelligent systems.</p>
+      <p>🌱 Solving complex problems using <b>Deep Learning, Generative AI (LLMs), and Python</b>.</p>
+      <p>🚀 Currently building end-to-end <b>AI Agents, RAG Systems, and MLOps pipelines</b>.</p>
+      <p>💬 Ask me about <b>PyTorch, TensorFlow, LLMs, FastAPI, or Cloud Deployment</b>.</p>
     </td>
     <td width="35%" style="border: none;" align="center">
       <!-- Dark Theme Coder GIF -->
@@ -33,7 +35,6 @@
   </tr>
 </table>
 
-<br>
 
 **🧠 Core AI & Data Stack**
 
@@ -43,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,django&theme=dark" />
   </a>
   <br><br>
-  <p><b>Data Engineering & DevOps</b></p>
+  <p><b> Deployment & Infrastructure </b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,githubactions,docker,git&theme=dark" />
   </a>
