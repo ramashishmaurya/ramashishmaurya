@@ -25,7 +25,6 @@
       <br><br>
       <p>🔭 Passionate <b>AI/ML Engineer</b> focusing on building scalable machine learning models and intelligent systems.</p>
       <p>🌱 Solving complex problems using <b>Deep Learning, Generative AI (LLMs), and Python</b>.</p>
-      <p>🚀 Currently building end-to-end <b>AI Agents, RAG Systems, and MLOps pipelines</b>.</p>
       <p>💬 Ask me about <b>PyTorch, TensorFlow, LLMs, FastAPI, or Cloud Deployment</b>.</p>
     </td>
     <td width="35%" style="border: none;" align="center">
