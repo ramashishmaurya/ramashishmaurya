@@ -56,28 +56,3 @@
 </div>
 
 <br>
-
-**📊 GitHub Analytics**
-
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ramashishmaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&v=1" width="380" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramashishmaurya&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&v=1" width="380" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" colspan="2" style="border: none;">
-      <img src="https://streak-stats.demolab.com/?user=ramashishmaurya&theme=tokyonight&hide_border=true&background=0D1117" width="450" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramashishmaurya&style=for-the-badge&color=00a8cc&label=PROFILE+VIEWS" alt="Profile views" />
-  <p>⭐ <i>Thanks for stopping by! If you like my AI/ML work, consider starring my repos!</i> ⭐</p>
-</div>
